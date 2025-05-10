@@ -1,5 +1,5 @@
 # ConfigCryptor
-Fernet-encrypted config realization
+Fernet-encrypted config realization. Key'll be stored in .fernetKey file
 
 Lib has just two simple methods:
 - getValue(key)
